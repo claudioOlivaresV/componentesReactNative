@@ -7,7 +7,7 @@ export const SwitchScreen = () => {
   return (
     <CustemView style={{marginTop: 100, paddingHorizontal: 10}}>
       <Card>
-        <Button text="click" onPress={() => {}}></Button>
+        <Button text="click me" onPress={() => {}}></Button>
       </Card>
     </CustemView>
   );
